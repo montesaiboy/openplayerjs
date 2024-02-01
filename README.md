@@ -14,7 +14,6 @@ This is a media player that uses all the goods of HTML5 video/audio elements to 
 
 No new features or additions will be added, only bug fixes.
 
-## Advantages
 
 -   Supports **all modern browsers**.
 -   **No dependencies**, since it is written in Typescript.
